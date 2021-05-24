@@ -27,15 +27,19 @@
 ### 인앱광고/유료광고 (사르더르, 준석)  
 
 ![Android_Manifest](https://user-images.githubusercontent.com/79889548/119346730-8e83f280-bcd5-11eb-8b57-aa0791ddf193.PNG)
+
 메니페스트 파일에 앱 아이디를 설정해주는 부분입니다. 
 
 ![join activity](https://user-images.githubusercontent.com/79889548/119346732-8fb51f80-bcd5-11eb-9770-815762ffc8c5.PNG)
+
 Join Activity 파일에 Adview 설정 및 AdView 광고 초기화 함수 , AdView 사이즈를 정했습니다.
 메니페스트 파일과는 다르게 실제 앱 아이디로 하면 광고 화면이 나오는데 오래걸린다고 해서 테스트 아이드로 했습니다. 
 
 ![Activity_Join](https://user-images.githubusercontent.com/79889548/119346734-904db600-bcd5-11eb-931e-46babd6002a1.PNG)
+
 AdView 디자인 설정 부분 입니다. 
 
 ![Google AdMob](https://user-images.githubusercontent.com/79889548/119346735-904db600-bcd5-11eb-80e9-56f7d4860ad6.PNG)
+
 실행화면 입니다. 
 
