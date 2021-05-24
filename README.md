@@ -15,6 +15,11 @@
 ### 모든 항목은 변경되거나 삭제될 여지가 있습니다   
    ***   
    
+### 진도표   
+![KakaoTalk_20210524_215238444_01](https://user-images.githubusercontent.com/57963888/119350587-7c588300-bcda-11eb-8e5e-76c9ce0b2ffc.jpg)   
+![KakaoTalk_20210524_215238444](https://user-images.githubusercontent.com/57963888/119350594-7e224680-bcda-11eb-943a-81d4e162e1e0.jpg)   
+
+   
 ### 파일 합치기 (수빈, 경진, 혜정)   
 
 
