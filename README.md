@@ -28,6 +28,7 @@
 >>
 >> ![20210524_220244](https://user-images.githubusercontent.com/76034369/119352187-53d18880-bcdc-11eb-956c-deecbfb5698b.png)
 >>
+>>https://user-images.githubusercontent.com/76034369/119354198-be83c380-bcde-11eb-94e7-ebdf9238102a.mp4
 
   
 >>2. 필터링(수빈, 유리, 경진)
